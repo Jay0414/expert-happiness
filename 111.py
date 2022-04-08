@@ -18,7 +18,7 @@
 # print(type(e))    # <class 'bool'>
 import requests
 import json
-设置URL
+#设置URL
 url = "https://kim-api1.kwaitalk.com/deploy/v2/notify/checkUpdate"
 # 设置消息头
 headers = {
